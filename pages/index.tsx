@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import {PostCard, Categories, PostWidget } from '../components';
+import {PostCard, Categories, PostWidget, Header } from '../components';
 
 
 const posts = [
@@ -9,7 +9,7 @@ const posts = [
 
 export default function Home() {
   return (
-    <div className="container mx-auto px-10 mb-8 bg-gray-300">
+    <div className="container mx-auto px-10 mb-8">
       <Head>
         <title>CMS Blog</title>
         <link rel="icon" href="/favicon.ico" />
@@ -19,12 +19,12 @@ export default function Home() {
         <div className="lg:col-span-8 col-span-1">
           {posts.map((post, index) => ( <PostCard post={post} key={post.title} /> ))}
         </div>
-      </div>
 
-      <div className='lg:col-span-4 col-span-1'>
-        <div className='lg:sticky relative top-8'>
-          <PostWidget />
-          <Categories />
+        <div className="lg:col-span-4 col-span-1">
+          <div className="lg:sticky relative top-8">
+            <PostWidget />
+            <Categories />
+          </div>
         </div>
       </div>
 
