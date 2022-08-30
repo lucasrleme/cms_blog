@@ -1,27 +1,28 @@
-# Next.js + Tailwind CSS Example
+# Hygraph CMS Headless Blog
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+[Live Site](https://cms-blog-five.vercel.app/) 
 
-## Deploy your own
+### 🛠 Tecnologias
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- [React](https://pt-br.reactjs.org/)
+- [NextJS](https://nodejs.org/en/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Sass](https://sass-lang.com/)
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Autor
+---
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+<a href="https://github.com/lucasrleme" target="_blank">
+ <img style="border-radius:50%;" src="https://github.com/lucasrleme.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>Lucas Leme</b></sub>
+</a>
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Feito com ❤️ por Lucas Leme 👋🏽 Entre em contato!
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-leme-a0bb4043/)](https://www.linkedin.com/in/lucas-leme-a0bb4043/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasratm40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:lucasratm40@gmail.com)
