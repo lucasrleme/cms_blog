@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/lucasrleme" target="_blank">
- <img style="border-radius:50%;" src="https://github.com/lucasrleme.png" width="100px;" alt=""/>
+ <img src="https://github.com/lucasrleme.png" width="100px;" style="border-radius:50%" />
  <br />
  <sub><b>Lucas Leme</b></sub>
 </a>
