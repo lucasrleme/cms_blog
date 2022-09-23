@@ -7,10 +7,17 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://www.javascript.com/)
 - [NextJS](https://nodejs.org/en/)
+- [Hygraph](https://hygraph.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Sass](https://sass-lang.com/)
 
+Projeto hospedado utilizando Vercel: 
+
+- [Vercel](https://vercel.com)
+
+<img src="public\cms-blog.PNG" width="100%"/>
 
 ### Autor
 ---
